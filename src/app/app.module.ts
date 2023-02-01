@@ -34,7 +34,8 @@ import { CardComponent } from './card/card.component';
     ExemploServicos1Component,
     ExemploServicos2Component,
     CicloDeVidaComponent,
-    CicloDeVidaPaiComponent
+    CicloDeVidaPaiComponent,
+    CardComponent
   ],
   imports: [
     BrowserModule,
